@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h2>Bienvenido</h2>
-	<p><a href="usuario">Login</a></p>
+	<p><a href="login.jsp">Login</a></p>
 </body>
 </html>
