@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Sitio Seguro :: Bienvenido</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<h2>Bienvenido</h2>
-	<p><a href="usuario">Login</a></p>
+
 </body>
 </html>
